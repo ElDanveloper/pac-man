@@ -1,4 +1,4 @@
-Visão Geral
+Visão Geral:
 Este projeto é uma aplicação web desenvolvida JavaScript, onde tento recriar o game do pacman.
 
 Tecnologias usada:
